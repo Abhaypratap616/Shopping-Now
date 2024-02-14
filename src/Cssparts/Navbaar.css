@@ -1,0 +1,24 @@
+.logo{
+    height: 40px;
+}
+
+.words-dark{
+    font-weight: 500;
+    font-size: 1.2em;
+    font-family: cursive;
+}
+.color p{
+     color: rgb(111, 9, 207);
+}
+.color p:hover{
+    color: rgb(203, 105, 25);
+  
+}
+.navbaar-color{
+    background-color: rgb(226, 182, 236);
+    margin-bottom: -8px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}

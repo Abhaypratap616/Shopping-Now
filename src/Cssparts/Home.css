@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.hand img{
+    height: 20px
+}
+.hero img{
+    margin-top: 10px;
+    height: 100%;
+    width: 100%;
+}
+.A-1{
+    margin-top: 50px;
+    margin: auto auto ;
+   
+}
+
+.A-1 button{
+    margin-top: 10px;
+    border-radius: 10px;
+    height: 40px;
+    background-color: rgb(219, 194, 243);
+    width: 200px;
+    border: 1px solid rgb(106, 32, 106);
+}
+.A-1 button:hover{
+    background-color: rgb(236, 232, 240);
+    color: rgb(1, 1, 1);
+    
+}
+.upperpart{
+    background:linear-gradient(180deg, #fde1ff,#e1ffea22);
+    height: 100vh;
+}
